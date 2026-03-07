@@ -1,64 +1,63 @@
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the App Name Roulette Predictor app (hereby referred to as "Application") for mobile devices that was created by Silivon Nicola (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
-**Information Collection and Use**
+This privacy policy applies to the **Roulette Predictor** app (hereby referred to as "Application") for mobile devices that was created by Silivon Nicola (hereby referred to as "Service Provider") as a Commercial service.
 
-The Application collects information when you download and use it. This information may include information such as
+## Information Collection and Use
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The Application collects the following information only when you explicitly provide it:
 
-The Application does not gather precise information about the location of your mobile device.
+*   **Apple ID information** — When you sign in with Apple, the Application receives your name and email address (Apple may provide a private relay email at your request). This information is stored **locally on your device** using the operating system's secure storage and is **never transmitted** to the Service Provider's servers or any external service.
+*   **Subscription status** — Your subscription status is managed entirely by Apple through StoreKit. The Application queries Apple's systems to verify whether you have an active subscription. The Service Provider does not store or process payment information.
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+The Application does **not** collect:
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+*   Device IP address, location, or unique device identifiers
+*   Usage analytics, page visits, or session duration
+*   Crash reports or diagnostic data
+*   Contacts, photos, or media (image processing for OCR is performed entirely on-device and no images are uploaded)
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The Application does not use Artificial Intelligence (AI) technologies, analytics SDKs, or advertising frameworks.
 
-**Third Party Access**
+## Data Storage
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+All application data — including game history, settings, and predictions — is stored **locally on your device**. No data is transmitted to external servers. The Service Provider does not operate any backend servers or cloud services for this Application.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+## Third-Party Services
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+The Application uses the following third-party services:
 
-**Opt-Out Rights**
+*   **Apple (Sign in with Apple)** — for user authentication. Apple's privacy policy: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
+*   **Apple (StoreKit / App Store)** — for subscription management and payment processing. Payment data is handled entirely by Apple and is not accessible to the Service Provider.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+No other third-party services, analytics platforms, or advertising networks are used.
 
-**Data Retention Policy**
+## Opt-Out Rights
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at snicoby.apple@gmail.com and they will respond in a reasonable time.
+You can stop all data storage by the Application by uninstalling it. You may use the standard uninstall processes available on your mobile device. Since all data is stored locally, uninstalling the Application removes all associated data.
 
-**Children**
+To revoke Sign in with Apple access, go to your device Settings → Apple ID → Password & Security → Apps Using Your Apple ID.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## Data Retention Policy
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(snicoby.apple@gmail.com)</span> so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+All user data is stored locally on your device and is retained only as long as the Application is installed. The Service Provider does not retain any user data on external servers. If you'd like to confirm data deletion, please contact snicoby.apple@gmail.com.
 
-**Security**
+## Children
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Application is not directed at children under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13. If you believe a child has provided personal information through the Application, please contact snicoby.apple@gmail.com so that appropriate action can be taken. You must be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries a parent or guardian may do so on your behalf).
 
-**Changes**
+## Security
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+The Service Provider is committed to safeguarding your information. Apple ID credentials are stored using the operating system's secure storage (Keychain on iOS/macOS). All other application data is stored in the application's sandboxed storage area, protected by the operating system.
 
-This privacy policy is effective as of 2026-03-07
+## Changes
 
-**Your Consent**
+This Privacy Policy may be updated from time to time. The Service Provider will notify you of any changes by updating this page. You are advised to review this Privacy Policy periodically. Continued use of the Application after changes are posted constitutes acceptance of those changes.
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+## Your Consent
 
-**Contact Us**
+By using the Application, you consent to the processing of your information as described in this Privacy Policy.
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at snicoby.apple@gmail.com.
+## Contact Us
 
-* * *
+If you have any questions regarding privacy while using the Application, please contact the Service Provider via email at snicoby.apple@gmail.com.
