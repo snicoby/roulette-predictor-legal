@@ -1,6 +1,5 @@
 # Terms & Conditions
 
-**Last updated:** July 2025
 
 These terms and conditions apply to the **Roulette Predictor** app (hereby referred to as "Application") for mobile devices that was created by Silivon Nicola (hereby referred to as "Service Provider") as a Commercial service.
 
