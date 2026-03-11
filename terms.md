@@ -8,10 +8,9 @@ Upon downloading or utilizing the Application, you are automatically agreeing to
 
 The Application offers a **Premium Monthly** subscription that unlocks full access to prediction services.
 
-*   **Free Trial**: New subscribers receive a **3-day free trial**. You will not be charged during the trial period. If you do not cancel before the trial ends, the subscription will automatically convert to a paid monthly subscription.
-*   **Billing**: Payment is charged to your **Apple ID account** at confirmation of purchase, or at the end of the free trial period if applicable.
+*   **Billing**: Payment is charged to your **Apple ID account** at confirmation of purchase.
 *   **Auto-Renewal**: The subscription **automatically renews** each month unless canceled at least **24 hours before the end of the current billing period**. Your account will be charged for renewal within 24 hours prior to the end of the current period at the subscription price.
-*   **Manage & Cancel**: You can manage or cancel your subscription at any time by going to your device **Settings в†’ Apple ID в†’ Subscriptions**. Cancellation takes effect at the end of the current billing period вЂ” you will retain access until that date.
+*   **Manage & Cancel**: You can manage or cancel your subscription at any time by going to your device **Settings РІвЂ вЂ™ Apple ID РІвЂ вЂ™ Subscriptions**. Cancellation takes effect at the end of the current billing period РІР‚вЂќ you will retain access until that date.
 *   **Price**: The current subscription price is displayed on the subscription page within the Application and in the App Store. Prices may vary by region and are subject to change. Any price change will take effect at the start of the next subscription period following the change.
 *   **Refunds**: Refund requests are handled by Apple according to their refund policy. The Service Provider does not process refunds directly.
 
